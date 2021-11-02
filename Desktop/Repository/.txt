@@ -1,0 +1,29 @@
+ DevOps culture is all about a shared understanding between developers and 
+ operations, and sharing responsibility for the software they build. That means increasing transparency, communication, and collaboration across development, IT/operations, and business
+   DevOps aims to include everyone who has a stake in the game by involving them early on in the collaborative process. Achieving
+   that success with DevOps starts with understanding the key business benefits. Organisations are able to move faster with less downtime and fewer security issues.
+
+   DevOps is an evolution from the agile model of software development
+   deveops comprises of developers snd operations, who has shared responsiblity of making sure the work is done.
+   developers are in charge of creating the application, when operations see into, testing,deployment and automation of the app.
+
+   devops tools include
+   for planning and coding-git
+   for building-maeven and gradle
+   testing-junit
+   integrating-jenkins
+   deploy&operations-puppet,docker.
+    monitoring-Splunk
+    software development life cycle Software is a complex product that is developed and delivered through a series of steps.
+    SDLC is deveops.
+
+    DEvops best practice includes
+    Build a collaborative culture. 
+Put customer satisfaction first. 
+Use agile project management.
+Adopt continuous integration and delivery (CI/CD)
+Monitor the right metrics. 
+Use the right tools
+
+Difference between deveops and Sre engineer?
+ DevOps Engineers are ops-focused engineers who solve development pipeline problems. Site Reliability Engineers are development-focused engineers who solve operational/scale/reliability problems
